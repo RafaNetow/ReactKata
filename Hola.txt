@@ -1,2 +1,3 @@
-Hola Rafael
-Hola David
+Hi Rafael
+Hi David
+Como estas?
